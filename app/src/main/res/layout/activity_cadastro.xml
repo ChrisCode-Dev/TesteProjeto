@@ -122,8 +122,16 @@
                 android:layout_width="283dp"
                 android:layout_height="50dp"
                 android:text="KRLLLLL"
-                tools:layout_editor_absoluteX="92dp"
-                tools:layout_editor_absoluteY="549dp" />
+                tools:layout_editor_absoluteX="80dp"
+                tools:layout_editor_absoluteY="478dp" />
+
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="234dp"
+                android:layout_height="54dp"
+                android:text="Button"
+                tools:layout_editor_absoluteX="98dp"
+                tools:layout_editor_absoluteY="552dp" />
         </androidx.constraintlayout.widget.ConstraintLayout>
 
     </FrameLayout>
